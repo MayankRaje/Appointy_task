@@ -1,0 +1,10 @@
+{
+    "users": [
+      {
+        "uid": "insta-appointy",
+        "name": "Appointy",
+        "email": "appointy@gmail.com",
+        "pwd": "random-chicky-bum"
+      }
+    ]
+  }
